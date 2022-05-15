@@ -1,2 +1,3 @@
-# multitenat_scheduler
-adding schedular in multitenant application
+# Multitenant_Scheduler
+creating mulitenacy application with 2 tenant and adding scheduler
+
